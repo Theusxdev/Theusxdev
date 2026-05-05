@@ -51,8 +51,9 @@
 
 ## 📫 Contato
 
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-* 💼 LinkedIn: seu-link-aqui
+* 📧 Email: mathew.olivertrin98@gmail.com.
+* 💼 LinkedIn: www.linkedin.com/in/matheus-silva-45915434a
+
 
 ---
 
