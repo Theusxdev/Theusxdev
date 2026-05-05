@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Olá, eu sou Matheus Oliveira
 
-<!--
-**Theusxdev/Theusxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack com foco em **Java, JavaScript e TypeScript**
+🚀 Experiência na criação de **APIs REST, aplicações web e integração entre sistemas**
+🧠 Sempre buscando escrever código limpo, escalável e bem estruturado
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+### Back-end
+
+* Java (Spring Boot)
+* Node.js com TypeScript
+* APIs REST
+* Autenticação e validação de dados
+* MySQL / PostgreSQL
+
+### Front-end
+
+* JavaScript
+* TypeScript
+* React
+* HTML / CSS
+
+### Ferramentas e práticas
+
+* Git e GitHub
+* Postman
+* VS Code / IntelliJ
+* Arquitetura em camadas
+* Boas práticas de código (Clean Code)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 API REST em Java (Spring Boot)
+→ CRUD completo com autenticação, segurança e persistência de dados
+
+🔹 API em Node.js com TypeScript
+→ Estrutura escalável com tipagem forte e validação
+
+🔹 Front-end em React + TypeScript
+→ Interface moderna consumindo APIs
+
+🔹 Projeto Full Stack
+→ Integração entre back-end (Java/Node) e front-end (React)
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+* 💼 LinkedIn: seu-link-aqui
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=dark)
